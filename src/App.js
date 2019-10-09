@@ -2,7 +2,7 @@ import React from "react";
 import BarraPesquisa from "./Componentes/BarraPesquisa";
 import ListaFilmes from "./Componentes/ListaFilmes";
 
-const API = 'e9ef850fd62edeb5c05bfda2e37aac73';
+const API = 'INSERIRAPICODE';
 
 class App extends React.Component {
   state = {
